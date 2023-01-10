@@ -11,11 +11,18 @@ body:
     placeholder: "e.g. 0x500c9a771908622e87f5a1ff59ee9361def2649d7fd4b9ca03bbcec77c966091"
   validations:
     required: true
-- type: input
+- type: dropdown
   id: chain
   attributes:
-    label: chainName or chainID
-    placeholder: "e.g. bsc"
+    label: What browsers are you seeing the problem on?
+    multiple: false
+    options:
+      - Ethereum
+      - Binance Smart Chain
+      - Cronos
+      - Avalanche-C
+      - Polygon
+      - Arbitrum
   validations:
     required: true
 - type: textarea
