@@ -1,7 +1,7 @@
 name: "\U0001F680 New feature proposal"
 description: Propose a new feature to be added to Phalcon
 labels: 
-  - feature
+  - enhancement
 body:
   - type: markdown
     attributes:
