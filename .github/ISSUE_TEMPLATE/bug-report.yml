@@ -8,13 +8,12 @@ body:
   id: txhash
   attributes:
     label: Transaction Hash
-    placeholder: "e.g. 0x500c9a771908622e87f5a1ff59ee9361def2649d7fd4b9ca03bbcec77c966091"
   validations:
     required: true
 - type: dropdown
   id: chain
   attributes:
-    label: What browsers are you seeing the problem on?
+    label: Chain
     multiple: false
     options:
       - Ethereum
