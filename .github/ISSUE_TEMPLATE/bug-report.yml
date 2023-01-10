@@ -1,0 +1,39 @@
+name: Phalcon
+description: "Report an issue with Phalcon"
+title: "Bug: (fill in)"
+labels: 
+  - bug
+body:
+  - type: input
+    id: txhash
+    attributes:
+      label: Transaction Hash
+      placeholder: "e.g. 0x500c9a771908622e87f5a1ff59ee9361def2649d7fd4b9ca03bbcec77c966091"
+    validations:
+      required: true
+  - type: input
+    id: chain
+    attributes:
+      label: chainName or chainID
+      placeholder: "e.g. bsc"
+    validations:
+      required: true
+  - type: textarea
+  attributes:
+    label: What did you expect to happen?
+    description: |
+      You can use Markdown in this field.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: What actually happened?
+    description: |
+      You can use Markdown in this field.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Additional comments
+    description: Is there anything else that's important for the team to know?
+
