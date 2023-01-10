@@ -1,5 +1,5 @@
-name: Phalcon
-description: "\U0001F41E Report an issue with Phalcon"
+name: "\U0001F41E Report a problem"
+description: "Report an issue with Phalcon"
 title: "Bug: (fill in)"
 labels: 
   - bug
