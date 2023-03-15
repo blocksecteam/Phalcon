@@ -1,6 +1,6 @@
 ## About Phalcon
 
-[Phalcon](https://phalcon.blocksec.com) is a powerful transaction explorer designed for the DeFi community by [BlockSec](https://blocksec.com). It provides comprehensive data on invocation flow, source code, balance changes, and transaction fund flows. It also supports [transaction simulation](https://docs.blocksec.com/phalcon/user-manual#transaction-simulation). 
+[Phalcon.xyz](https://phalcon.xyz) is a powerful transaction explorer designed for the DeFi community by [BlockSec](https://blocksec.com). [Phalcon.xyz](https://phalcon.xyz) has powerful transaction debugging capabilities, it provides comprehensive data on invocation flow, source code, balance changes, and transaction fund flows. It also supports [transaction simulation](https://docs.blocksec.com/phalcon/user-manual#transaction-simulation).
 
 Phalcon aims to help developers, security researchers, and traders intuitively understand transactions. 
 
