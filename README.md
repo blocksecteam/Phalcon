@@ -1,10 +1,10 @@
-## About Phalcon
+## About BlockSec Phalcon
 
-[Phalcon.xyz](https://phalcon.xyz) is a powerful transaction explorer designed for the DeFi community by [BlockSec](https://blocksec.com). [Phalcon.xyz](https://phalcon.xyz) has powerful transaction debugging capabilities, it provides comprehensive data on invocation flow, source code, balance changes, and transaction fund flows. It also supports [transaction simulation](https://docs.blocksec.com/phalcon/user-manual#transaction-simulation).
+[BlockSec Phalcon](https://blocksec.com/phalcon) is a new paradigm to secure protocols and LP assets. It can help mitigate bugs in smart contract development and upgrade and automatically respond to intercept and block hacks after deployment. Currently, it includes the following products.
 
-Phalcon aims to help developers, security researchers, and traders intuitively understand transactions. 
-
-Visit the [user manual](https://docs.blocksec.com/phalcon/user-manual) for how to use Phalcon!
+* [Phalcon Block](https://blocksec.com/phalcon/block): Phalcon Block surpasses mere attack monitoring. It responds instantly to block threats. This battle-tested capability has proven its effectiveness by successfully thwarting 20+ real-world hacks and rescuing over $14,000,000 worth of assets.
+* [Phalcon Fork](https://blocksec.com/phalcon/fork): Phalcon Fork allows for collaborative and precise testing during code deployment and upgrade, ensuring robust, secure, and free of bugs of smart contracts.
+* [Phalcon Explorer](https://blocksec.com/phalcon/explorer): A powerful transaction explorer designed for the DeFi community.
 
 ## Report issues and/or suggest features
 
